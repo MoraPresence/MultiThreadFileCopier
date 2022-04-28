@@ -1,0 +1,4 @@
+/home/mora/Desktop/clion-2019.3.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/bin/gcc -DCMAKE_CXX_COMPILER=/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/mora/Desktop/MultiThreadFileCopier
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mora/Desktop/MultiThreadFileCopier/cmake-build-debug

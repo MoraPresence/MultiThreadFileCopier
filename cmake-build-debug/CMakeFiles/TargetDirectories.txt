@@ -1,0 +1,3 @@
+/home/mora/Desktop/MultiThreadFileCopier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mora/Desktop/MultiThreadFileCopier/cmake-build-debug/CMakeFiles/multiThreadFileCopier.dir
+/home/mora/Desktop/MultiThreadFileCopier/cmake-build-debug/CMakeFiles/edit_cache.dir

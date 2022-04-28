@@ -1,0 +1,1 @@
+/bin/g++   -pthread -g   CMakeFiles/multiThreadFileCopier.dir/main.cpp.o CMakeFiles/multiThreadFileCopier.dir/consumerFileCopier.cpp.o CMakeFiles/multiThreadFileCopier.dir/producersFileCopier.cpp.o  -o multiThreadFileCopier -lstdc++fs 

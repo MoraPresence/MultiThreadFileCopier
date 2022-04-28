@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="multiThreadFileCopier" targetName="multiThreadFileCopier" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1e9f399-57c3-419c-908e-bafbfb08bb50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="28NaEdodJUvYIG3FXtaQN3YICmT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="multiThreadFileCopier" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="--srcPath $PROJECT_DIR$/DirToTest1 --dstPath $PROJECT_DIR$/DirToTest2 --mode overwrite" PASS_PARENT_ENVS_2="true" PROJECT_NAME="multiThreadFileCopier" TARGET_NAME="multiThreadFileCopier" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="multiThreadFileCopier" RUN_TARGET_NAME="multiThreadFileCopier">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1e9f399-57c3-419c-908e-bafbfb08bb50" name="Default Changelist" comment="" />
+      <created>1651059386161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651059386161</updated>
+      <workItem from="1651059388471" duration="27323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651157397593">
+      <screen x="72" y="27" width="1842" height="796" />
+    </state>
+    <state x="537" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1842.796@72.27.1842.796" timestamp="1651157397593" />
+    <state width="1757" height="215" key="GridCell.Tab.0.bottom" timestamp="1651174818775">
+      <screen x="72" y="27" width="1803" height="949" />
+    </state>
+    <state width="1664" height="216" key="GridCell.Tab.0.bottom/72.27.1710.951@72.27.1710.951" timestamp="1651090466232" />
+    <state width="1757" height="215" key="GridCell.Tab.0.bottom/72.27.1803.949@72.27.1803.949" timestamp="1651174818775" />
+    <state width="1796" height="215" key="GridCell.Tab.0.bottom/72.27.1842.796@72.27.1842.796" timestamp="1651162889658" />
+    <state width="1802" height="215" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1651146658715" />
+    <state width="2046" height="275" key="GridCell.Tab.0.bottom/72.27.2092.1146@72.27.2092.1146" timestamp="1651085462498" />
+    <state width="2046" height="277" key="GridCell.Tab.0.bottom/72.27.2092.1153@72.27.2092.1153" timestamp="1651086527406" />
+    <state width="1757" height="215" key="GridCell.Tab.0.center" timestamp="1651174818771">
+      <screen x="72" y="27" width="1803" height="949" />
+    </state>
+    <state width="1664" height="216" key="GridCell.Tab.0.center/72.27.1710.951@72.27.1710.951" timestamp="1651090466222" />
+    <state width="1757" height="215" key="GridCell.Tab.0.center/72.27.1803.949@72.27.1803.949" timestamp="1651174818771" />
+    <state width="1796" height="215" key="GridCell.Tab.0.center/72.27.1842.796@72.27.1842.796" timestamp="1651162889651" />
+    <state width="1802" height="215" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1651146658712" />
+    <state width="2046" height="275" key="GridCell.Tab.0.center/72.27.2092.1146@72.27.2092.1146" timestamp="1651085462489" />
+    <state width="2046" height="277" key="GridCell.Tab.0.center/72.27.2092.1153@72.27.2092.1153" timestamp="1651086527399" />
+    <state width="1757" height="215" key="GridCell.Tab.0.left" timestamp="1651174818768">
+      <screen x="72" y="27" width="1803" height="949" />
+    </state>
+    <state width="1664" height="216" key="GridCell.Tab.0.left/72.27.1710.951@72.27.1710.951" timestamp="1651090466209" />
+    <state width="1757" height="215" key="GridCell.Tab.0.left/72.27.1803.949@72.27.1803.949" timestamp="1651174818768" />
+    <state width="1796" height="215" key="GridCell.Tab.0.left/72.27.1842.796@72.27.1842.796" timestamp="1651162889647" />
+    <state width="1802" height="215" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1651146658710" />
+    <state width="2046" height="275" key="GridCell.Tab.0.left/72.27.2092.1146@72.27.2092.1146" timestamp="1651085462483" />
+    <state width="2046" height="277" key="GridCell.Tab.0.left/72.27.2092.1153@72.27.2092.1153" timestamp="1651086527396" />
+    <state width="1757" height="215" key="GridCell.Tab.0.right" timestamp="1651174818773">
+      <screen x="72" y="27" width="1803" height="949" />
+    </state>
+    <state width="1664" height="216" key="GridCell.Tab.0.right/72.27.1710.951@72.27.1710.951" timestamp="1651090466229" />
+    <state width="1757" height="215" key="GridCell.Tab.0.right/72.27.1803.949@72.27.1803.949" timestamp="1651174818773" />
+    <state width="1796" height="215" key="GridCell.Tab.0.right/72.27.1842.796@72.27.1842.796" timestamp="1651162889656" />
+    <state width="1802" height="215" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1651146658713" />
+    <state width="2046" height="275" key="GridCell.Tab.0.right/72.27.2092.1146@72.27.2092.1146" timestamp="1651085462494" />
+    <state width="2046" height="277" key="GridCell.Tab.0.right/72.27.2092.1153@72.27.2092.1153" timestamp="1651086527403" />
+    <state width="1757" height="298" key="GridCell.Tab.1.bottom" timestamp="1651174811772">
+      <screen x="72" y="27" width="1803" height="949" />
+    </state>
+    <state width="1757" height="298" key="GridCell.Tab.1.bottom/72.27.1803.949@72.27.1803.949" timestamp="1651174811772" />
+    <state width="1796" height="237" key="GridCell.Tab.1.bottom/72.27.1842.796@72.27.1842.796" timestamp="1651155977982" />
+    <state width="1802" height="340" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1651146544051" />
+    <state width="1757" height="298" key="GridCell.Tab.1.center" timestamp="1651174811765">
+      <screen x="72" y="27" width="1803" height="949" />
+    </state>
+    <state width="1757" height="298" key="GridCell.Tab.1.center/72.27.1803.949@72.27.1803.949" timestamp="1651174811765" />
+    <state width="1796" height="237" key="GridCell.Tab.1.center/72.27.1842.796@72.27.1842.796" timestamp="1651155977979" />
+    <state width="1802" height="340" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1651146544046" />
+    <state width="1757" height="298" key="GridCell.Tab.1.left" timestamp="1651174811763">
+      <screen x="72" y="27" width="1803" height="949" />
+    </state>
+    <state width="1757" height="298" key="GridCell.Tab.1.left/72.27.1803.949@72.27.1803.949" timestamp="1651174811763" />
+    <state width="1796" height="237" key="GridCell.Tab.1.left/72.27.1842.796@72.27.1842.796" timestamp="1651155977977" />
+    <state width="1802" height="340" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1651146544044" />
+    <state width="1757" height="298" key="GridCell.Tab.1.right" timestamp="1651174811768">
+      <screen x="72" y="27" width="1803" height="949" />
+    </state>
+    <state width="1757" height="298" key="GridCell.Tab.1.right/72.27.1803.949@72.27.1803.949" timestamp="1651174811768" />
+    <state width="1796" height="237" key="GridCell.Tab.1.right/72.27.1842.796@72.27.1842.796" timestamp="1651155977980" />
+    <state width="1802" height="340" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1651146544049" />
+  </component>
+</project>
